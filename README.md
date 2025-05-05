@@ -10,7 +10,7 @@
 class AliAbdullah:
     def __init__(self):
         self.name = "Ali Abdullah"
-        self.education = "Computer Science @ NUST H-12, Islamabad"
+        self.education = "Computer Science @ NUST Islamabad, Pakistan"
         self.location = "Lahore, Pakistan"
         self.year = "Junior Year"
         self.interests = ["Web Development", "Machine Learning",
@@ -23,7 +23,7 @@ class AliAbdullah:
 me = AliAbdullah()
 me.say_hi()
 ```
-- 🎓 Junior year Computer Science student at **NUST H-12**, Lahore, Pakistan
+- 🎓 Junior year Computer Science student at **NUST Islamabad**, Pakistan
 - 💻 Proficient in **Web Development** with experience in **ML/DL** models
 - 🔒 Aspiring **Cybersecurity** specialist focusing on penetration testing and vulnerability assessment
 - ☁️ Currently learning **AWS Certified Solutions Architecture** for DevOps
