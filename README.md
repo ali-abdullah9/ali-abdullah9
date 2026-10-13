@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Ali+Abdullah;Web+Developer;Machine+Learning+Enthusiast;Cybersecurity+Explorer;Welcome+to+My+GitHub!" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Ali+Abdullah;Larping;Welcome+to+My+GitHub!" alt="Title" />
 </div>
 
 
@@ -12,21 +12,19 @@ class AliAbdullah:
         self.name = "Ali Abdullah"
         self.education = "Computer Science @ NUST Islamabad, Pakistan"
         self.location = "Lahore, Pakistan"
-        self.year = "Junior Year"
-        self.interests = ["Web Development", "Machine Learning",
+        self.interests = ["Network Engineering", "Automation",
                          "Cybersecurity", "DevOps"]
         self.current_focus = ["AWS Solutions Architecture",
-                              "Penetration Testing"]    
+                              "Penetration Testing","CCNP']    
     def say_hi(self):
         print("Thanks for dropping by! Feel free to explore my projects and connect with me!")
 
 me = AliAbdullah()
 me.say_hi()
 ```
-- 🎓 Junior year Computer Science student at **NUST Islamabad**, Pakistan
-- 💻 Proficient in **Web Development** with experience in **ML/DL** models
-- 🔒 Aspiring **Cybersecurity** specialist focusing on penetration testing and vulnerability assessment
-- ☁️ Currently learning **AWS Certified Solutions Architecture** for DevOps
+- 🎓 Comp Sci graduate from **NUST Islamabad** 2022 Batch, Pakistan
+- 💻 Professional larping in Web Dev , Deep learning and Networking.
+- ☁️ Currently learning **CCNP** for Network Engineering. 
 -  📫 How to reach me **aliabdullah656561@gmail.com**
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
